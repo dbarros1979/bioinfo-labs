@@ -6,6 +6,6 @@ This BioInfo Labs project contains important information about key factors on Bi
 
 Below are the modules covered so far
 
-[Genome Replication](#): Where does the genome replication happens?
+[Genome Replication](/genome-replication/README.md): Where does the genome replication happens?
 
 [DNA Patterns](#): What are the goal of DNA patterns?
