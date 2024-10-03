@@ -8,4 +8,4 @@ Below are the modules covered so far
 
 [Genome Replication](/genome-replication/README.md): Where does the genome replication happens?
 
-[DNA Patterns](#): What are the goal of DNA patterns?
+[DNA Patterns](/dna-patterns/README.md): What are the goal of DNA patterns?
